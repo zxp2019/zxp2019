@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxp2019&theme=dark)
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=zxp2019.github.io&show_owner=true)](https://github.com/zxp2019/zxp2019.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=luogu-guide&show_owner=true)](https://github.com/zxp2019/luogu-guide) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=zxp2019.github.io&show_owner=true&theme=dark)](https://github.com/zxp2019/zxp2019.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=luogu-guide&show_owner=true&theme=dark)](https://github.com/zxp2019/luogu-guide) |
 | :--------: | :---------: |
 
 <!--
