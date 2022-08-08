@@ -7,7 +7,7 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=zxp2019.github.io&show_owner=true&theme=dark)](https://github.com/zxp2019/zxp2019.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxp2019&repo=luogu-guide&show_owner=true&theme=dark)](https://github.com/zxp2019/luogu-guide) |
 | :--------: | :---------: |
 
-[![](https://luogu-card.vercel.app/about?id=180720)](https://www.luogu.com.cn/user/180720)
+[![](https://luogu-card.vercel.app/about?id=180720&dark_mode=true)](https://www.luogu.com.cn/user/180720)
 
 <!--
 **zxp2019/zxp2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
