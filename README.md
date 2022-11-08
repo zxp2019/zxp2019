@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=zxp2019&show_icons=true&theme=dark)
 
